@@ -37,8 +37,9 @@
     ./VMEmulator.sh
     
   # Screenshots
-   These screenshots helps you how to use the supplied tool.
-  
+   These screenshots helps you how to use the supplied tool. For detailed description refer tool.md
+
+   
  # Built With
    - python3
    

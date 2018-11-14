@@ -38,7 +38,16 @@
     
   # Screenshots
    These screenshots helps you how to use the supplied tool. For detailed description refer tool.md
-
+   ![alt text](https://github.com/manikishan/JackCompiler/blob/master/misc/screenshots/Screenshot%20from%202018-11-15%2001-37-05.png "SS 1")
+   
+   
+   
+   
+   ![alt text](https://github.com/manikishan/JackCompiler/blob/master/misc/screenshots/Screenshot%20from%202018-11-15%2001-37-21.png "SS 2")
+   
+   
+   
+  ![alt text](https://github.com/manikishan/JackCompiler/blob/master/misc/screenshots/Screenshot%20from%202018-11-15%2001-37-45.png "SS 3")
    
  # Built With
    - python3

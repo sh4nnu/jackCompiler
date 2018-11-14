@@ -8,6 +8,7 @@
   What are the requirements inorder to develop the Jack language.
 
 `python 3.6.*`
+
 `VM Emulator (which you can find in the [**tools**]( /tools/) directory.`
 
 # Running the tests

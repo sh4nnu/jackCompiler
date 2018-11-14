@@ -27,14 +27,14 @@
   
    Windows
   
-    `cd "PATH\ TO \ JackCompiler \ tools \ " VMEmulator.bat`
+    cd "PATH\ TO \ JackCompiler \ tools \ " VMEmulator.bat
   
    Linux
   
-    ```
+    
     cd /PATH/ TO /JackCompiler/ tools
     ./VMEmulator.sh
-    ```
+    
   # Screenshots
    These screenshots helps you how to use the supplied tool.
   

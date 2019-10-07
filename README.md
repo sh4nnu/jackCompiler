@@ -1,5 +1,5 @@
 # JackCompiler
-  Jack Compiler is a *two-tier* compiler made from scratch with python which implements a basic Object-Oriented Language named Jack. Jack language is a simple and a primitive programming language, which was made scratch for a 16-bit architecture called Hack PC which is a project of the course Nand2Tetris. This project is extending the implementations of Jack Language.
+  Jack Compiler is a *two-tier* compiler made from scratch with python which implements a basic Object-Oriented Language named Jack. Jack language is a simple and a primitive programming language, which was made from scratch for a 16-bit architecture called Hack PC which is a project of the course Nand2Tetris. This project is extending the implementations of Jack Language.
 
 # Getting Started
   These instructions will get you a copy of the compiler on your local machine for development and testing purposes.

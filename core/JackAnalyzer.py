@@ -101,13 +101,13 @@ class jackTokenizer:
         else:
             return 'NONE'
     
-    #-- API Routines Begin
+    #-- API Routines Begin 
 
     def tokenType(self):
         if self.token in self.keyword.keys():
             return 'keyword'
         elif re.match(self.re_integer,self.token):
-            return 'integerConstant'
+            return 'integerConstant'.     
         elif re.match(self.re_symbol,self.token):
             return 'symbol'
         elif re.match(self.re_identifier,self.token):
@@ -123,9 +123,9 @@ class jackTokenizer:
 
 
 
+#compile
 
-
-class compilationEngine:
+class compilationEngine: 
 
     
 

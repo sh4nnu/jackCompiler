@@ -50,7 +50,7 @@
   ![alt text](https://github.com/manikishan/JackCompiler/blob/master/misc/screenshots/Screenshot%20from%202018-11-15%2001-37-45.png "SS 3")
    
  # Built With
-   - python3
+   - Python3
    
  # Authors 
   - **Manikishan** - [manikishan](https://githib.com/manikishan)
